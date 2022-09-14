@@ -3,3 +3,4 @@ Feel free to take the External C2 implementation but you will need to modify it 
 
 
 Blog Post: 
+https://xret2pwn.github.io/Myths-About-External-C2/
